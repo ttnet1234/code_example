@@ -2,7 +2,9 @@ def write_cat():
     print("/_/\\") 
     print("( o.o )") 
     print("> ^ <")
-    print("-----")
+    print("--meow---")
+    print("meow")
+    print("meow")
 
 def draw_ascii_dog():
     """
