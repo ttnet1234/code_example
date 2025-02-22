@@ -19,8 +19,29 @@ def draw_ascii_dog():
     """
     print(dog)
 
+
+def draw_a_house():
+    """
+    Generates and prints an ASCII representation of a house.
+    """
+    house = """
+     _ _ _ _ _ _
+    |         |
+    |         |
+    |         |
+    |         |
+    |         |
+    |         |
+    |         |
+    |         |
+    |         |
+    """
+    print(house)
+
 if __name__ == "__main__":
     print("meow")
     write_cat() 
     draw_ascii_dog()
     print("meow")
+    draw_a_house()
+
