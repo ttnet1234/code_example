@@ -1,5 +1,5 @@
 def write_cat():
-    print("/_/\")  
+    print("/_/\\") 
     print("( o.o )") 
     print("> ^ <")
     print("-----")
@@ -17,7 +17,7 @@ def draw_ascii_dog():
     """
     print(dog)
 
-f __name__ == "__main__":
+if __name__ == "__main__":
     print("meow")
     write_cat() 
     draw_ascii_dog()
